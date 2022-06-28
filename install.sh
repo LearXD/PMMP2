@@ -10,4 +10,4 @@ unlink PHP-7.0.14_Linux-x84_64.zip
 
 sudo chmod 777 ./start.sh
 
-echo "Instalação realizada com sucesso, use \"./install.sh\"!"
+echo "Instalação realizada com sucesso, use \"./start.sh\"!"
